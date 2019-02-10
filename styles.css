@@ -1,0 +1,56 @@
+body {
+
+  background-color: lightgray;
+}
+
+
+.h1, h1 {
+  font-size: 2.5rem;
+  margin-top: 11px;
+}
+
+
+
+.topnavbar {
+    background-color: teal; 
+    color: white; 
+    background-color: teal;
+    color: white; 
+    text-align: center; 
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.navmenu {
+
+color: gray;
+padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+a {
+
+  color: gray;
+
+}
+
+
+.profileimage {
+
+  float: left;
+  left: 0px;
+  border: 1px solid;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+footer {
+
+  background-color: darkgray;
+  text-align: center;
+  padding: 20px;
+  border-top: 5px;
+}
