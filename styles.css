@@ -54,3 +54,27 @@ footer {
   padding: 20px;
   border-top: 5px;
 }
+
+.border-success {
+  border-color: teal !important;
+ 
+}
+
+@media only screen and (max-width:640px) { 
+
+  .profileimage {
+
+    float: left;
+    left: 0px;
+    border: 1px solid;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
+  .justify-content-end {
+    -ms-flex-pack: end!important;
+    justify-content: center !important;
+}
+
+}
